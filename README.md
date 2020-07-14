@@ -1,4 +1,4 @@
-![enter image description here](https://pbs.twimg.com/profile_banners/941865538971561984/1594652524/800x200)
+![enter image description here](https://pbs.twimg.com/profile_banners/941865538971561984/1594652524/600x200)
 
 
 Hi there, I'm currently studying computer science and working on some freelance projects. 
