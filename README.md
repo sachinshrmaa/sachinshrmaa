@@ -2,7 +2,7 @@ Hi there, My name is Sachin Sharma, and I'm currently studying computer science 
 
 ## About Me
 
-Sachin Sharma is a computer science student and a part-time freelancer, with experience providing on-demand services and managing several projects.
+Sachin Sharma is a computer science student and a part-time freelancer, with experience providing on-demand services and managing several projects. He started writing open source code so that he can programing a more fun and easy thing to start, learn and build.
 
 ## Skills 
 
@@ -13,8 +13,7 @@ These are some of my top skills:
 - Data Analysis
 - Git
 - Machine Learning
-- C
-- C++
+
 
 ## Support 
 
@@ -24,7 +23,7 @@ I would love it if you support my work on [Patreon](https://www.patreon.com/sach
 
 Feel free to reach out to me for any queries or suggestions, or send me a tweet on twitter @sachinshrmaa
 
-twitter: twitter.com/SachinShrmaa/
+twitter: https://twitter.com/SachinShrmaa/
 
 mail: contact@sachinshrmaa.com
 
