@@ -13,6 +13,8 @@ These are some of my top skills:
 - Data Analysis
 - Git
 - Machine Learning
+- Django
+- Bootstrap
 
 
 ## Support 
