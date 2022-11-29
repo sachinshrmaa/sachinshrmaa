@@ -28,4 +28,4 @@ Feel free to reach out to me for any queries or suggestions, or send me a tweet 
 
 - Email: mail.sachinsblog@gmail.com
 - Blog: https://sachinsblog.in/
-- Newsletter : https://newsletter.sachinsblog.in/
+- Newsletter : http://newsletter.sachinsblog.in/
