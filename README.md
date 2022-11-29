@@ -8,20 +8,24 @@ This is the place where I document all the projects and open source it with the 
 
 These are some of my top skills:
 
-- HTML & CSS
+- HTML & CSS & JS
 - Python
 - Data Analysis
 - Git & GitHub
 - Machine Learning
 - Django & Rest Framework
 - Bootstrap
-- React & React Native
+- React 
+- Next.JS
+- C
+- C++
+- JAVA
     
 
 ## Get in Touch
 
 Feel free to reach out to me for any queries or suggestions, or send me a tweet on twitter [@sachinshrmaa](https://twitter.com/SachinShrmaa/)
 
-- Email: sachinkrsharmaa@gmail.com
+- Email: mail.sachinsblog@gmail.com
 - Blog: https://sachinsblog.in/
-- Newsletter : https://getrevue.co/profile/sachinshrmaa/
+- Newsletter : https://newsletter.sachinsblog.in/
