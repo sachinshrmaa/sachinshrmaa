@@ -26,6 +26,6 @@ These are some of my top skills:
 
 Feel free to reach out to me for any queries or suggestions, or send me a tweet on twitter [@sachinshrmaa](https://twitter.com/SachinShrmaa/)
 
-- Email: mail.sachinsblog@gmail.com
+- Email: mail.sachinsblog+github@gmail.com
 - Blog: https://sachinsblog.in/
-- Newsletter : http://newsletter.sachinsblog.in/
+- SachinsBlog Insider Newsletter : https://sachinsblog.in/newsletter
