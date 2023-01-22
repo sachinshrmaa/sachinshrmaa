@@ -1,31 +1,7 @@
+Hi there! My name is Sachin, I am a computer engineering student majoring in artificial intelligence and machine learning at [Sikkim Institute of Science and Technology](http://www.sist.edu.in/Public/Index/Home "Sikkim Institute of Science and Technology"), Chisopani, Sikkim - India.
 
-If you are reading this, thanks for being here - My name is Sachin Sharma and I'm a final year computer science student by day and a curious boy by night ( who loves to read, write, travel and explore stuffs).
+Apart from studies I like to build software related to the web and ml. I like to spend my leisure time [reading books](https://www.sachinsblog.in/bookshelf "reading books")(mostly non-fiction), [teaching data science at the basics cohorts](https://thebasics.sachinsblog.in/ "teaching data science at the basics cohorts"), and writing about finance, health, tech, and more at [SachinsBlog](https://sachinsblog.in/ "SachinsBlog").
 
-This is the place where I document all the projects and open source it with the world.
- 
+And once a week I set aside some time to share the things I am learning through my work, books, and awesome people I meet through my [SachinsBlog Insider Newsletter](https://www.sachinsblog.in/newsletter "SachinsBlog Insider Newsletter")(feel free to join).
 
-## Skills
-
-These are some of my top skills:
-
-- HTML & CSS & JS
-- Python
-- Data Analysis
-- Git & GitHub
-- Machine Learning
-- Django & Rest Framework
-- Bootstrap
-- React 
-- Next.JS
-- C
-- C++
-- JAVA
-    
-
-## Get in Touch
-
-Feel free to reach out to me for any queries or suggestions, or send me a tweet on twitter [@sachinshrmaa](https://twitter.com/SachinShrmaa/)
-
-- Email: mail.sachinsblog+github@gmail.com
-- Blog: https://sachinsblog.in/
-- SachinsBlog Insider Newsletter : https://sachinsblog.in/newsletter
+If you have questions for me, you can reach out to me either on [Twitter](http://twitter.com/sachinshrmaa "Twitter") or simply mail me at [mail.sachinsblog+github@gmail.com](mail.sachinsblog+github@gmail.com "mail.sachinsblog+github@gmail.com") (don’t forget to add the subject). I respond to every email/tweet I get.
