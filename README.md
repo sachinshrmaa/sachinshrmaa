@@ -1,4 +1,4 @@
-Hi there! My name is Sachin, I'm a computer engineering student majoring in artificial intelligence and machine learning at [Sikkim Institute of Science and Technology](http://www.sist.edu.in/Public/Index/Home "Sikkim Institute of Science and Technology"), Chisopani, Sikkim - India.
+Hi there! My name is Sachin, I'm a computer engineering student at [Sikkim Institute of Science and Technology](http://www.sist.edu.in/Public/Index/Home "Sikkim Institute of Science and Technology"), Chisopani, Sikkim - India.
 
 Apart from studies I like to [build software](https://stipill.in "build software") related to the web and ml. I like to spend my leisure time [reading books](https://www.sachinsblog.in/bookshelf "reading books")(mostly non-fiction), [teaching web development at the basics cohorts](https://thebasics.sachinsblog.in/ "teaching web development at the basics cohorts"), and writing about finance, health, tech, and more at [SachinsBlog](https://sachinsblog.in/ "SachinsBlog").
 
