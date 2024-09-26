@@ -1,4 +1,4 @@
-Hello 👋 my name is Sachin and I’m currently working as an [Intern at KloudOne](https://authnull.com/), where I focus on works related to frontend development. I’m also pursuing my Bachelor's degree in Computer Engineering from [SIST (Sikkim Institute of Science and Technology)](https://sist.edu.in/).  
+Hello 👋 my name is Sachin and I’m currently working as an [Associate Software Engineer at Authnull](https://authnull.com/), where I focus on works related to frontend development. I’ve completed my Bachelor's degree in Computer Engineering from [SIST (Sikkim Institute of Science and Technology)](https://sist.edu.in/).  
   
 Previously, I have also completed my Diploma in Computer Engineering with a distinction grade. Apart from studies and work, I actively build and contribute to open-source projects on GitHub.  
   
